@@ -1,0 +1,53 @@
+# These values have been generated according to a third order polynomial and adding some noise.
+# Use them to fit the polynomial.
+# To load the data, use numpy.loadtxt, as in the following
+#
+# import numpy
+# x = numpy.loadtxt('third_order_pol.dat', usecols=(0,))
+# y = numpy.loadtxt('third_order_pol.dat', usecols=(1,))
+#
+# This creates two lists, filled with X and Y values, respectively.
+#
+# X   Y 
+-7. 65.00 
+-6.65 75.53
+-6.3 58.56   
+-5.95 67.12   
+-5.6 62.11
+-5.25 61.85  
+-4.9 53.63
+-4.55 57.36 
+-4.2 42.62
+-3.85 45.97
+-3.5 35.47
+-3.15 27.60
+-2.8 27.02
+-2.45 25.29
+-2.1 13.85
+-1.75 15.92  
+-1.4 14.01
+-1.05 5.28 
+-0.7 1.55
+-0.35 -4.61
+0. 4.79
+0.35 -3.82 
+0.7 -0.15
+1.05 -3.77
+1.4 -12.88
+1.75 -10.35
+2.1 -7.06
+2.45 -12.71
+2.8 2.30
+3.15 1.49
+3.5 9.12
+3.85 10.92  
+4.2 12.40
+4.55 27.80
+4.9 30.58
+5.25 38.21   
+5.6 53.07
+5.95 69.15
+6.3 76.43
+6.65 100.55
+7. 114.44
+
